@@ -1,0 +1,9 @@
+KesslerGame-2.1.9-py3-none-any.whl 
+numpy
+pillow
+inputs
+scikit-fuzzy
+matplotlib
+scipy
+networkx
+EasyGA
